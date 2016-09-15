@@ -1,3 +1,4 @@
+# bicis-locas
 
 **Completa la función validateForm, se deben hacer las siguientes validaciones en los campos:**
 
@@ -9,3 +10,5 @@
 + El campo password no puede ser igual a "password" ó "123456" ó "098754"
 + El valor seleccionado de bicis, debe ser una de las opciones presentadas
 + Si algún campo presenta error debe informarse al usuario por medio de un alert.
++ Si algún campo presenta error debe informarse al usuario por medio de un alert.
+
