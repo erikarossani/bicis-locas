@@ -8,11 +8,6 @@ function validateForm(){
           alert (formulario[i].placeholder );
           todoCorrecto=false;
           }
-          
-        if (/^[a-z][a-z]*/.test(formulario.nombre)==false){
-          alert ("Nombre no valido");
-          todoCorrecto=false;
-        } 
       }
     }
     
